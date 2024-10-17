@@ -1,0 +1,19 @@
+.menu-title__container {
+  color: #ffffff;
+}
+
+.menu-title__container > h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 135px;
+  font-family: "Segoe UI";
+}
+
+.menu-title__container > hr {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}

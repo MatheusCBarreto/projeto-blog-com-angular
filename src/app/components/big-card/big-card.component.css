@@ -10,8 +10,8 @@
   margin-right: 20px;
 }
 
-.big-cad__phone > img {
-  /* width: 300px; */
+.big-cad__photo > img {
+  width: 100%;
   height: 200px;
 }
 
@@ -21,6 +21,10 @@
 }
 
 .big-card__description > p {
+  margin-top: 10px;
+}
+
+.big-card__description > p > a {
   margin-top: 10px;
   color: #8b8b8b;
 }
